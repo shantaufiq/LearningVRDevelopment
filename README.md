@@ -16,7 +16,7 @@ Untuk menginstal dan menjalankan proyek Unity ini, ikuti langkah-langkah di bawa
    - Navigasi ke direktori di mana Anda ingin menyimpan proyek.
    - Klon repositori dengan menjalankan perintah:
      ```bash
-     git clone https://github.com/username/nama-repository.git
+     git clone https://github.com/shantaufiq/LearningVRDevelopment.git
      ```
    - Tunggu hingga proses kloning selesai.
 
